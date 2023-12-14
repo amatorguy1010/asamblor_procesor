@@ -1,8 +1,0 @@
-BRZ addx
-BRZ dup
-addx ADD 10
-sub aici
-BRN sub
-dup acum
-LDR Y 10
-HLT
